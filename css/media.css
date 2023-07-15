@@ -1,0 +1,645 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+  /* header start */
+  .h_logo {
+    font-size: 27px;
+}
+ul li {
+  padding: 0px 0px;
+}
+  .ddm[data-bs-popper] {
+    top: 53px;
+    left: -11px;
+}
+  .d_btn{
+  height: 60px;
+}
+   .ddm {
+    width: 280px;
+    padding: 5px 5px;
+}
+  /* header end */
+  /* banner start */
+  .banner_text {
+    margin: 120px 0 120px;
+}
+  .b_h1 {
+    font-size: 23px;
+  }
+  .b_p {
+    font-size: 15px;
+    line-height: 22px;
+}
+   
+  /* banner end */
+ /* services start */
+ /* common start */
+ .c_shape {
+  width: 2px;
+  height: 35px;
+ }
+ .c_h1 {
+  padding: 8px 0px 15px 0px;
+  font-size: 25px;
+ }
+ /* common end */
+ 
+
+ /* services end */
+ /* About start */
+ .About {
+  padding: 40px 0px 10px 0px
+ }
+.About_text {
+text-align: center;
+padding-left: 0px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.A_h2 {
+margin-bottom: 5px;
+font-size: 25px;
+}
+.A_p {
+margin-top: 20px;
+padding: 0px 0px;
+font-size: 15px;
+line-height: 23px;
+}
+ /* About end */
+ /* Recent Work start */
+  
+ /* Recent Work end */
+ /* Why Choose start */
+ .wc_section {
+  padding: 30px 0px;
+}
+.wc_text{
+  text-align: center;
+
+}
+.wc_h1 {
+  font-size: 25px;
+}
+.wc_h2 {
+  font-size: 20px;
+}
+.wc_p2 {
+  font-size: 16px;
+}
+.wc_img{
+  margin-top: 15px;
+  margin-bottom: 15px ;
+}
+ /* Why Choose end */
+ /* Who Work With US start */
+ .Wu_text {
+  padding: 10px 0px;
+}
+ .wu_h1{
+  font-size: 25px;
+ }
+ .c_box {
+  padding-left: 42px;
+}
+.who-work_banner {
+  height: 1500px;
+}
+ /* Who Work With US end */
+ /* Best Pricing start */
+ .bp_box {
+  padding: 25px;
+  text-align: center;
+}
+.Best_Pricing {
+  padding-bottom: 30px;
+}
+.bp_h2 {
+  font-size: 20px;
+}
+ /* Best Pricing end */
+ /* Responsive start */
+ .R_h2 {
+  font-size: 19px;
+ }
+
+ /* Responsive  end */
+ /* About start/ */
+ .A_c {
+  padding: 0px;
+}
+.C_text {
+  text-align: center;
+  padding: 10px;
+}
+.A_h5 {
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+.A_h3 {
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+.A_h4 {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+.A_p {
+  margin-top: 15px;
+  font-size: 15px;
+  line-height: 22px;
+}
+/* About end */
+/* contact start */
+.con_us {
+  padding: 0px 10px;
+}
+input[type="text"], select, textarea {
+  padding: 5px
+}
+.bu_btn {
+  border-radius: 6px;
+  padding: 1px 13px;
+}
+/* contact end */
+/* footer start */
+.footer_text {
+  padding: 40px 0 0;
+}
+.footer_mt {
+  margin-top: 0px;
+}
+.footer_icon {
+  margin-bottom: 20px;
+}
+.t_a{
+  text-align: center;
+}
+/* footer end */
+
+}
+
+ 
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* header start */
+  .ddm[data-bs-popper] {
+    top: -14px;
+    left: 86px;
+}
+   .ddm {
+    padding: 5px 5px;
+}
+  /* header end */
+    /* banner start */
+    .banner_text {
+      margin: 135px 0 135px;
+  }
+  .b_h1 {
+    font-size: 33px;
+  }
+  .b_p {
+    font-size: 15px;
+    line-height: 25px;
+}
+    /* banner end */
+  /* services start */
+   /* common start */
+ .c_shape {
+  width: 2px;
+  height: 35px;
+ }
+ .c_h1 {
+  padding: 8px 0px 17px 0px;
+  font-size: 27px;
+ }
+ /* common end */
+ /* services end */
+   /* About start */
+   .About {
+    padding: 40px 0px 40px 0px
+   }
+   .About_text {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 0px;
+  }
+  .A_p {
+    padding: 0px 30px;
+    font-size: 17px;
+    line-height: 25px;
+  }
+  .A_img {
+    padding: 0 60px;
+}
+   /* About end */
+/* Recent Work start */
+ 
+ /* Recent Work end */
+ /* Why Choose start */
+ .wc_text{
+  text-align: center;
+}
+.wc_h1 {
+  font-size: 28px;
+}
+.wc_h2 {
+  font-size: 21px;
+}
+.wc_p2 {
+  font-size: 16px;
+}
+.wc_img{
+  margin-top: 15px;
+  margin-bottom: 15px ;
+}
+ /* Why Choose end */
+/* Who Work With US start */
+.c_box{
+   padding-left: 150px;
+}
+.Wu_text {
+  padding: 0px 0px;
+}
+.who-work_banner {
+  height: 1530px;
+}
+/* Who Work With US end */
+ /* Best Pricing start */
+ .bp_box {
+  padding: 34px;
+  text-align: center;
+}
+ /* Best Pricing end */
+ /* Responsive start */
+ 
+ /* Responsive  end */
+ /* About start/ */
+ .C_text {
+  text-align: center;
+  padding: 30px 0px;
+}
+ .A_p {
+  padding: 0px 0px;
+}
+/* About end */
+/* contact start */
+.con_us {
+  padding: 0px 45px;
+}
+input[type=text], select, textarea {
+  padding: 5px
+}
+.bu_btn {
+  border-radius: 6px;
+  padding: 1px 13px;
+}
+/* contact end */
+/* footer start */
+.footer_text {
+  padding: 80px 90px 0;
+}
+.footer_mt {
+  margin-top: 0px;
+}
+.footer_icon {
+  margin-bottom: 20px;
+}
+.t_a{
+  text-align: center;
+}
+/* footer end */
+
+     
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* header start */
+  .ddm[data-bs-popper]{
+    top: -25px;
+    left: 80px;
+   }
+  /* header end */
+ /* banner start */
+ .banner_text {
+  margin: 140px 0 140px;
+}
+.b_h1 {
+  font-size: 35px;
+}
+.b_p {
+  font-size: 15px; 
+  line-height: 25px;
+}
+
+  /* banner end */
+ /* services start */
+ /* common start */
+ .c_shape {
+  width: 2px;
+  height: 40px;
+ }
+ .c_h1 {
+  padding: 8px 0px 17px 0px;
+  font-size: 27px;
+ }
+ /* common end */
+
+ /* services end */
+   /* About start */
+   .About {
+    padding: 50px 0px 50px 0px
+   }
+   .About_text {
+    text-align: center;
+    padding: 0px 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+  .A_p{
+      padding: 0px 0px;
+      font-size: 16px;
+      line-height: 25px;
+  }
+  .A_img {
+    padding: 0 70px;
+}
+  /* About end */
+/* Recent Work start */
+ 
+ /* Recent Work end */
+/* Why Choose start */
+.wc_text{
+  text-align: center;
+
+}
+.wc_img{
+  margin-bottom: 20px ;
+}
+
+ /* Why Choose end */
+/* Who Work With US start */
+.Wu_text {
+  padding: 0px 0px;
+}
+.c_box {
+  padding-left: 63px;
+}
+.who-work_banner {
+  height: 830px;
+}
+/* Who Work With US end */
+ /* Best Pricing start */
+ .bp_box {
+  padding: 30px;
+ }
+ /* Best Pricing end */
+ /* Responsive start */
+ .R_h2 {
+  font-size: 20px;
+ }
+
+ /* Responsive  end */
+ /* About start/ */
+ .A_c {
+  text-align: center;
+  padding: 115px;
+}
+/* About end */
+/* contact start */
+.con_us {
+  padding: 0px 130px;
+}
+input[type=text], select, textarea {
+  padding: 7px
+}
+.bu_btn {
+  border-radius: 6px;
+  padding: 1px 13px;
+}
+/* contact end */
+/* footer start */
+.footer_text {
+  padding: 80px 130px 0;
+}
+.footer_mt {
+  margin-top: 80px;
+}
+.footer_nav a {
+  padding: 0px 4px;
+}
+/* footer end */
+ 
+  
+
+  
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /*header start */
+  ul li {
+    padding: 6px 6px;
+}
+  /*header end */
+  /* banner start */
+  .banner_text {
+    margin: 150px 0 150px;
+}
+.b_h1 {
+  font-size: 37px;
+}
+ /* banner end */
+ /* services start */
+
+ /* services end */
+  /* About start */
+  .About {
+    padding: 60px 0px 60px 0px
+   }
+  .About_text {
+    padding: 0 15px;
+    margin-top: 0px;
+}
+   .A_h2{
+    margin-bottom: 8px;
+    font-size: 28px;
+   }
+   .A_p {
+    padding: 10px 0px;
+    font-size: 15px;
+    line-height: 20px;
+}
+ /* About end */
+/* Recent Work start */
+ 
+ /* Recent Work end */
+/* Why Choose start */
+
+ /* Why Choose end */
+ /* Who Work With US start */
+
+/* Who Work With US end */
+ /* Best Pricing start */
+ .bp_box {
+  padding: 10px;
+ }
+ /* Best Pricing end */
+ /* Responsive start */
+
+ /* Responsive  end */
+ /* About start/ */
+ .C_text {
+  padding: 9px 30px;
+}
+.A_h5 {
+  margin-bottom: 10px;
+  font-size: 27px;
+}
+.A_h3 {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+.A_h4 {
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+/* About end */
+/* contact start */
+.con_us {
+  padding: 0px 175px;
+}
+/* contact end */
+/* footer start */
+.footer_text{
+  padding: 66px 255px 10px;
+}
+.footer_mt {
+  margin-top: 90px;
+}
+.footer_nav a {
+  padding: 0px 9px
+}
+/* footer end */
+}
+ 
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* header start */
+ 
+  /* header end */
+   /* banner start */
+   .banner_text {
+    margin: 165px 0px 165px;
+}
+ 
+ /* banner end */
+  /* services start */
+
+ /* services end */
+   /* About start */
+   .About {
+    padding: 80px 0px 80px 0px
+   }
+   .About_text {
+    padding: 0px 20px;
+    margin-top: 0px;
+}
+.A_p {
+  padding: 0px 0px;
+  font-size: 16px;
+  line-height: 30px;
+}
+  /* About end */
+/* Recent Work start */
+ 
+ /* Recent Work end */
+ /* Why Choose start */
+
+ /* Why Choose end */
+ /* Who Work With US start */
+
+/* Who Work With US end */
+ /* Best Pricing start */
+
+ /* Best Pricing end */
+ /* Responsive start */
+
+ /* Responsive  end */
+ /* About start/ */
+ .C_text {
+  padding: 0px 35px;
+}
+ .A_p {
+  line-height: 25px;
+}
+/* About end */
+/* contact start */
+ 
+/* contact end */
+ /* footer start */
+ .footer_nav a {
+  padding: 0 5px;
+}
+/* footer end */
+ 
+     
+}
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+  /* header start*/
+ 
+  /* header end */
+   /* banner start */
+   
+ /* banner end */
+  /* services start */
+
+ /* services end */
+ /* About start */
+ .About_text {
+  padding-left: 50px;
+  margin-top: 0px;
+}
+.A_p {
+  padding: 20px 0px;
+  font-size: 17px;
+  line-height: 33px;
+}
+ /* About end */
+/* Recent Work start */
+
+ /* Recent Work end */
+  /* Why Choose start */
+  
+ /* Why Choose end */
+ /* Who Work With US start */
+ .c_box {
+  padding-left: 38px;
+}
+ 
+/* Who Work With US end */
+ /* Best Pricing start */
+
+ /* Best Pricing end */
+ /* Responsive start */
+
+ /* Responsive  end */
+ /* About start/ */
+ .A_p {
+  padding: 0px 0px;
+}
+/* About end */
+/* contact start */
+ 
+/* contact end */
+/* footer start */
+
+/* footer end */
+  
+  
+
+   
+}
